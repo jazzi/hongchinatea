@@ -1,0 +1,56 @@
+---
+Title: "Tagebuch"
+Date: 2024-12-04
+---
+
+## 3. Dezember 2024 Heiß
+
+![Ein paar Tassen Tee mit Freunden trinken](/img/cupping-fun.jpg)
+
+Allein trinken ist okay, zusammen trinken ist großartig, besonders mit interessanten Leuten. Heute habe ich drei Tassen Tee mitgenommen, um zwei Personen in verschiedenen Bereichen zu treffen. Zwei Stunden Autofahrt sind nicht那么长, eigentlich macht es Spaß, in den Bergen zu fahren, wenn Sie ein manuelles Auto fahren.
+
+Um etwa 10 Uhr bin ich in Luo Yan Village angekommen, Herr Lin ist ein alter Freund, er betreibt eine große Fabrik und seine Röstfertigkeit hat mein Respekt erlangt. Tee probieren macht beiden von uns Spaß, wir gingen in die Probierecke und breiteten die Probiersets aus.
+
+Drei seiner Tassen und drei meiner eigenen. Seine Tassen sind drei traditionelle lokale Oolongs, sie sehen sehr sauber aus, keine Staub oder Fächerung, ich denke, seine neue Sortiermaschine funktioniert. Die drei Tassen, die ich habe, sind:
+
+1. Hoch gerösteter Tieguanyin Oolong
+2. Jungen Blättern Gold Peony Oolong
+3. Yunnan Oolong-Stil Puer
+
+Herr Lins Vorschlag für meinen Tieguanyin ist, eine höhere Temperatur wie 140°C für eine Stunde anzuwenden, sogar 150°C für die letzten zehn Minuten, aber es muss jemanden geben, der überwacht, da diese hohe Temperatur wahrscheinlich etwas verbrennt. Nach den letzten zehn Minuten Röstung öffnet man sofort das Tor, um die Wärme freizugeben. Es gibt eine Redewendung hier:
+
+> 艺高人胆大
+>
+> Groβe Kugel, wenn man talentiert ist
+
+Rösten ist die geheime Fertigkeit des Tées eigentlich, wenn Sie schon mal Big Red Robe vor der Röstung probiert haben, werden Sie wissen, was ich meine. Röstung kann einen Tee sogar komplett verändern. Es kann nicht nur auf Oolong angewendet werden, auch andere Tassen sind okay. Ich habe letzte Woche einen Schwarzen Tee geröstet und habe die Astringenz vollständig entfernt. Puer Tee kann auch geröstet werden.
+
+Rösten ist nicht eine einfache Aufgabe, es braucht nicht nur Zeit und Erfahrung, die Fähigkeit zur Vorstellung ist wichtiger. Rösten ist wie der General einer Armee, bevor Sie auf den Schlachtfeld gehen, Sie benötigen eine gute Strategie, Sie müssen Ihren Feind und sich selbst kennen, wo und wann es hergestellt wird, die Schwächen und Stärken des Tées, das Charakteristikum der Sorte, den Boden etc. Sobald es beginnt, müssen Sie sehr geduldig sein, probieren Sie ein wenig und probieren Sie es alle 30 Minuten. Die elektrische Energie tagsüber ist anders als in der Nacht, verschiedene Jahreszeiten haben auch unterschiedliche Auswirkungen.
+
+Das ist der charmante Teil, der andere Teil ist, dass sehr wenige Menschen dieses Juwel beherrschen können.
+
+Nach einem einfachen Mittagessen in der Fabrik bin ich den Berg runtergefahren, um einen anderen Freund zu treffen, leider gab es einen Autounfall. Die Bergstraße ist zu eng und zu windig, Sie sollten langsam fahren, aber die meisten Leute hier fahren schnell, zwei Autos sind zusammengestoßen, zum Glück Keine personne wurde schwer verletzt.
+, wir mussten nur warten, bis die Straßenräumung die Straße freigab.
+
+Schließlich bin ich angekommen, als der Tag fast dunkel war. Sobald wir uns hingesetzt haben, haben wir angefangen, unsere Tassen zu zeigen. Ich habe seinen besten Ergebnis dieses Herbsts probiert, es war ziemlich sanft. Was seinen Interesse an meinen Tassen geweckt hat, ist Nummer drei, der *Yunnan Oolong Style Puer*.
+
+Wir nennen es Puer Wulong, es wurde in Yunnan diesen Frühling gemacht, 60% Oolong-Techniken verwendet, 15% Schwarztee-Techniken verwendet, also schmeckt es nicht wie irgendeinen Tee.
+
+**Puer Wulong** hat den Aromen von Oolong, die sanfte Mundempfindung von Schwarztee und die starke Körperlichkeit von Puer. Dieser Tee ist ein Experiment, wir planen, es nächstes Jahr offiziell zu machen.
+
+> Ein bisschen mit ihm an Schwarztee herumzubasteln.
+
+Das ist der Vorschlag einer alten Dame, der Tante meines Freundes. Frau L ist eine erstaunliche Dame, die den Tee so sehr liebt und so viele Teeberge besucht hat. Sie kennt fast jede Sorte, ich bin sehr glücklich, eine solche neue Freundin zu haben.
+
+---
+
+## 10. Februar 2023 Kalt
+
+Annie und ich haben ein Videotreffen eingerichtet, um über ihre China-Tee-Einkaufsreise zu sprechen, dies wäre das erste Mal, um einen Teegarten zu besuchen, nachdem ihr Unternehmen gegründet wurde, der COVID-19 hat alles verzögert, dankbar ist es jetzt vorbei, jeder kann frei in und aus China reisen.
+
+Wir haben über die Regionen und Bauern gesprochen, die sie besuchen möchte, wow, das ist eine lange Liste, ich kann sehen, wie aufregend es ist. Unglücklicherweise ist April für mich ein sehr beschäftigter Monat, ich muss neue Tassen machen, glücklicherweise kann mir meine Freundin Lily in Hangzhou helfen, also werde ich mit ihr nach Guangdong und Fujian gehen und dann die Arbeit an Lily übergeben.
+
+Ich habe eine Frage gestellt: "Welchen Tee wollen Sie am meisten?" Annie hat mir nicht direkt geantwortet, stattdessen hat sie mir eine Geschichte erzählt, dass jedes Mal, wenn ein Kunde White Jade kaufen möchte, sie sagt "nein nein nein, Sie sollten Raw Jade probieren, es wird von einer außergewöhnlichen Frau hergestellt", und dann erzählt die Geschichte, wie die Frau mit dem Leben gekämpft ist, von der Erde und macht Schönheit geschehen. Diese Frau ist Frau Jade.
+
+Annie möchte dieser Frau helfen und mehr von ihren Tassen promoieren, aber wegen des Wetters und ihrer biologischen Bewirtschaftungsmethode gibt es keine große Chance, jedes Jahr eine hohe Qualität von Tee zu bekommen. Es ist wie ein Glücksspiel, wir beiden mögen es nicht, außerdem ist es ein großer Verlust für Frau Jade, diese Art von Hilflosigkeit ist widerlich.
+

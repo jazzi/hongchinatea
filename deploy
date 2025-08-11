@@ -1,0 +1,8 @@
+#!/bin/zsh
+USER=dog000
+HOST=mybaby
+DIR=/srv/www/hongchinatea.com/public/   # might sometimes be empty!
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0

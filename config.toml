@@ -1,0 +1,298 @@
+# Page settings
+baseurl = "https://hongchinatea.com"
+title = "Hong China Tea Company"
+languageCode = "en-us"
+theme = "hugo-elate-theme"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+  
+  custom_css = ["css/custom1.css", "css/custom2.css"]
+
+  # Meta
+  author = "Daniel Hong"
+  description = "Hong China Tea Company is a professional specialty tea producer & exporter from China, it's certified by FDA and offer large range of teas no matter conventional or Organic."
+  email = "daniel@hongchinatea.com"
+  # Navigation
+  [params.navigation]
+    brand = "HONG"
+    home = "Home"
+    work = "Teas"
+    testimonials = "Testimonials"
+    services = "Services"
+    about = "About"
+    contact = "Contact"
+
+    # You can add custom links before or after the default links
+    # Assign a weight to define the order
+    
+    # prepended links
+    [[menu.prepend]]
+      url = "/post"
+      name = "Blog"
+      weight = 10
+
+    # postpended links
+    #[[menu.postpend]]
+    #  url = "http://gohugo.io"
+    #  name = "External link"
+    #  weight = 10
+  
+  # Hero section
+  [params.hero]
+    title = "China Tea Purchasing Tour"
+    subtitle = 'Come, go with us <br>To meet the farmers and buy directly<br>All of our connections & resources opened to you<br>Register for <a href="/post/purchasing-tour/" target="_blank" title="tea buying trip">valuable tea buying trip</a><br>Check tea buying how-to in <a href="/post/" target="_blank">our blog</a>'
+ 
+  # Intro section
+  # Available icons: http://simplelineicons.com/
+  [params.intro]
+
+  [[params.intro.item]]
+    title = "Free Sample"
+    description = "We are happy to give away samples which is the witness of our tea passion and proof of the quality."
+    url = "mailto:daniel@hongchinatea.com"
+    button = "Ruquest a Sample"
+    icon = "icon-emotsmile"
+    img = "img_7.jpg"
+
+  [[params.intro.item]]
+    title = "FDA Approved"
+    description = "Hong China Tea Company is a FDA registered loose tea maker & wholesaler located in Fujian China, all teas meet the FDA requirements."
+    url = "https://fb.me/hongchinatea/"
+    button = "Have a Talk"
+    icon = "icon-check"
+    img = "img_8.jpg"
+
+  [[params.intro.item]]
+    title = "Small Order"
+    description = "All people just need a chance to meet good tea and our small quanity order service can help you decrease risk of tea importing."
+    url = "mailto:daniel@hongchinatea.com"
+    button = "Learn More"
+    icon = "icon-rocket"
+    img = "img_10.jpg"
+
+  [params.intro.video]
+    enable = true
+    title = "Watch the video"
+    icon = "icon-play2"
+    url = "https://vimeo.com/channels/staffpicks/93951774"
+
+
+  # Work section
+  [params.work]
+    enable = true
+    title = "Our Teas"
+    description = "We have a full list of loose leaf teas no matter organic or conventional, all go with when &amp; who &amp; how and a free sample.</br></br> Click pictures below for DETAILS."
+    footertext = '** PLEASE <a href="mailto:daniel@hongchinatea.com" target="_blank">CONTACT US</a> FOR FULL CATALOG **'
+
+    [[params.work.row]]
+      img = "work_1.jpg"
+      alt = "Huiming Monk Yellow tea"
+      title = "Huiming Monk Yellow tea"
+      subtitle = "Organic"
+      url = "/post/catalog/"
+
+    [[params.work.row]]
+      img = "work_2.jpg"
+      alt = "Gankeng Black Tea"
+      title = "Gankeng Black tea"
+      subtitle = "Organic"
+      url = "/post/catalog/"
+
+    [[params.work.row]]
+      img = "work_3.jpg"
+      alt = "Super White Tea"
+      title = "Super White tea"
+      subtitle = "Organic"
+      url = "/post/catalog/"
+
+    [[params.work.row]]
+      img = "work_4.jpg"
+      alt = "Traditional Tieguanyin"
+      title = "Traditional Tieguanyin"
+      subtitle = "Conventional"
+      url = "/post/catalog/"
+
+    [[params.work.row]]
+      img = "work_5.jpg"
+      alt = "Huang Jin Gui Oolong tea"
+      title = "Huang Jin Gui Oolong"
+      subtitle = "Conventional"
+      url = "https://hongchinatea.com/post/catalog/"
+   
+    [[params.work.row]]
+      img = "work_6.jpg"
+      alt = "EU Green Tieguanyin"
+      title = "EU Green Ti Kuanyin"
+      subtitle = "Conventional"
+      url = "/post/catalog/"
+
+  # Testimonials section
+  [params.testimonials]
+    enable = true
+    title = "Testimonials"
+    description = "Since established in 2012, we are lucky to partner with some excellent customers around the world, some are big, some are small even tiny but our heart is always the same."
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;Daniel has been my supplier for Fujian teas since 2012 and more recently my advisor and friend. Perhaps the easiest way of explaining why I trust him is that the two teas of his which I entered for the UK Great Taste Awards this year both won Triple Gold .&rdquo;"
+      person = 'Cris Martindale <span class="subtext">Owner of Caffi Cristobal, UK</span>'
+      img = "person4.jpg"
+      alt = "Cris Martindale"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;Tea Fishman is a small Israeli tea importer and we are happy to cooperate with Hong China Tea Company. The care and the respect, we have gotten from this company, is highly appreciated. We recommend this company for all it may concern.&rdquo;"
+      person = 'Yakov Fishman <span class="subtext">GE of Tea Fishman, Israel</span>'
+      img = "person5.jpg"
+      alt = "Yakov Fishman"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;I recommend Daniel Hong and his creation of Hong China Tea Company as not only a knowledgeable but trustworthy tea purveyor, but someone that lives tea. Daniel and I have enjoyed our tea friendship for years both recognizing our kindered love of tea.&rdquo;"
+      person = 'Phil Parda <span class="subtext">Owner of Savvy Tea Gourmet, USA</span>'
+      img = "person6.jpg"
+      alt = "Person3"
+    
+
+
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Services"
+    description = "Tea is our heart, we know there are a lot of people outside have the same passion too; Also we understand tea is a small circle, but by helping each other this circle can grow stronger."
+
+    [[params.services.item]]
+      title = "China Tea Tour"
+      description = "We are delighted to offer on-the-ground tours of Fujian tea making, these experience give you an insight into tea unlike any other. Visits are customized to your interest and schedule, and guidance is offered by Mr. Hong himself."
+      icon = "icon-anchor"
+
+    [[params.services.item]]
+      title = "Sourcing Agent"
+      description = "Procurement is not just about numbers and a visit, for tea it also needs patience and a little lucky, we have wider personal connnections with farmers all over China and Taiwan, an office in China can make your tea business stronger."
+      icon = "icon-diamond"
+    [[params.services.item]]
+      title = "OEM &amp; Original Equipment Manufacturer"
+      description = "Based on our efficient production system and mature collabration with other factories, we accept orders with your own designs, we also can take care of the logistics for you."
+      icon = "icon-support"
+
+      [[params.services.item]]
+      title = "YouTube Tea Education"
+      description = '<a href="https://www.youtube.com/channel/UCgJ5u_bNl1jEz4Y_m0F3mww" target="_blank">Subscribe Us</a> on YouTube to view free tea courses, it could be your first hand information about how to blend tea, how to make tea, detailed cost analysis of a tea and where to find a tea you want etc.'   
+      icon = "icon-magic-wand"
+
+  # About section
+  [params.about]
+    enable = true
+    title = "About Us"
+    description = "Our small team is grouped with more than tea passion but also 100+ yrs experience in total, we are rooted in China."
+
+    [[params.about.item]]
+      name = "Daniel Hong"
+      position = "Founder"
+      description = "Born in Fujian, Daniel is a certified senior tea master and his favorite tea is Big Red Robe."
+      img = "person1.jpg"
+      alt = "Daniel Hong"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "https://www.facebook.com/daniel.hong.334839"],
+        ["icon-linkedin", "https://www.linkedin.com/in/danielhong"]
+      ]
+
+    [[params.about.item]]
+      name = "Kenneth Kristensen"
+      position = "Special Assistant"
+      description = "Born in Denmark, Kenneth has over twenty years expericence in logistics and world trade business."
+      img = "person2.jpg"
+      alt = "Kenneth Kristensen"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-linkedin", "#"]
+      ]
+
+    [[params.about.item]]
+      name = "Lin Ruifu"
+      position = "Product Manager"
+      description = "Born in a tea village, Lin has over 40 yrs expericence in production, his favorite tea is Tie Guanyin."
+      img = "person3.jpg"
+      alt = "Lin Ruifu"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]      
+
+  # Counters section
+  [params.counters]
+    enable = true
+    title = "Stats"
+    background = "full_image_1.jpg"
+
+    [[params.counters.item]]
+      description = "Types of tea"
+      icon = "icon-present"
+      from = 0
+      to = 65
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Facebook likes"
+      icon = "icon-heart"
+      from = 0
+      to = 128
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Cups of tea"
+      icon = "icon-cup"
+      from = 0
+      to = 10000000
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Happy clients"
+      icon = "icon-people"
+      from = 0
+      to = 52
+      interval = 50
+      speed = 5000
+
+  # Contact section
+  [params.contact]
+    enable = true
+    map = false
+    form = true
+    title = "Get in touch"
+    description = "Welcome to request full tea list, wholesale price or a free sample, you will get replied in short time."
+    
+    # Available icons: http://simplelineicons.com/
+    details = [
+        ["icon-home", "1028 Lvling Rd. Xiamen city, <br> Fujian 361009 China"],
+        ["icon-phone", "(+86) 136-0607-1923"],
+        ["icon-envelope", "daniel@hongchinatea.com"],
+        ["icon-globe", '<a href="https://hongchinatea.com/" target="_blank">hongchinatea.com</a>']
+      ]
+
+    name = "Your Name"
+    email = "Your Email"
+    message = "Message"
+    button = "Send message"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = '&copy; 2021 Hong China Tea Company. All Rights Reserved. <br>Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5</a> & <a href="https://github.com/saey55" target="_blank">SAEY55</a>'
+    links = [
+        ["icon-twitter", "#twitter"],
+        ["icon-facebook", "https://www.facebook.com/hongchinatea"],
+        ["icon-youtube", "https://www.youtube.com/channel/UCgJ5u_bNl1jEz4Y_m0F3mww"]
+      ]
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

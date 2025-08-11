@@ -1,0 +1,326 @@
+---
+title: "Tea Wholesale Catalog"
+date: 2019-04-03T10:54:42+08:00
+draft: false
+---
+
+OOLONG TEA | BLACK TEA | YUNNAN PUER| GREEN & JASMINE TEA 
+-----------|-----------|------------|-----------
+[#7276 Huang Jin Gui](#1) | [#5176 Wild Wulong](#21) | #8275 Yiwu Puerh| #9150 Long Jing 
+[#7274 Classic Tieguanyin](#2) | [#5177 Tiger Mountain](#22) | #8175 Broken Silver| #9375 Anji Bai Cha 
+[#7176 Green Tieguanyin](#3) | [#5275 Red Fairie](#23) | #8276 Nanluo Raw Puer| #9485 Green Mist 
+[#7175 High Oxidization TGY](#4) | #5300 Jin Junmei | #8277 Pasha Raw Puer| #9484 Green Arrow 
+[#7378 Classic Dahongpao](#5) | #5375 Wuyi Lapsang | #8278 Pasha Raw Puer | #9154 Duyun Fishhook 
+[#7575 Fairie Diamond](#6) | #5477 Honey Dancong | #8375 Puer Tuo Cha | #9994 Organic Matcha 
+[#7675 Pinho White Bud](#7) | #5375 Yunnan Tip | [#8378 Classic Ripe Puer](#37) | #9677 Snow Bitter 
+
+---
+
+## OOLONG TEA ##
+According to Chinese Tea Classification, semi-oxidized is Oolong. The higheset oxidization Oolong is Oriental Beauty, the lowest oxidization Oolong is a mistery yet. 
+
+Oolong mostly comes from China, specifically from three main areas: Fujian, Guangdong and Taiwan, each style is quite different but never stop exchanging.
+
+### <span id="1">Ⅰ. #7276 Huang Jin Gui</span> ###
+
+Price $USD  | Tea Farmer | Origin | Plucking Standard | Packaging
+----------- | ---------- | ------ | ----------------- | ---------
+13.5 - 18 | Mr.Lin Ruifu | Huqiu,Anxi,Fujian | 1 bud 3-4 leaves | 25kg/ctn 
+
+![Yellow Dragon Oolong tea](/img/yellow-dragon.jpg)
+
+The English name is Yellow Dragon, there is also another name "Tou Tian Xiang" means sky high aroma. Beside its powerful fragrance, it has easy sweetness yet full body texture, a every day tea.
+
+This tea can be plucked two times, in Spring and Fall, normally autumn tea is much better as there is enough sunshine available, most of the tea competition winner is autumn tea. Some people purchase autumn tea only for the whole year sale.
+
+However in China its reputation is not very high in last twenty years, one is because of the competition between different varietals. In Anxi county, the number one varital is Tie Guan Yin. Between 1954-1984 teas could not purchased privately but have to sell to the country, the buyers in the Tea Station on behalf of the government mostly came from Tie Guan Yin region, the result is except Tie Guan Yin, all other varietals in Anxi county are put into one category named "Se Zhong", so officially you have no name any more.
+
+Another cause is kind of difficult unstandable nowadays, as **Huang Jin Gui is pretty good at digestion**, much better than other teas, in the past the whole country was very poor, people were lack of food, hungery is nighmare, they didn't like a tea good at digestion. 
+
+#### There are two stories about Huang Jin Gui, one is about Wei Zhen, one is about Wang Dan. ####
+
+In 1850 farmer Wei Zhen came across a special plant at the roadside, he brought it home and offered good care of it, when the tea was plucked and made, all neighbors were shocked by its strong fragrance. As the linquid is yellow and light, they named it as "Huang Dan". "Huang" is yellow while "Dan" is light, still local people call it that way. In early 1900s tea merchant Lin Jin Tai got this tea sales very well in South East Asia, as precious as gold, so he changed the name into "Huang Jin Gui", "Huang" is yellow while "Jin" is gold and "Gui" is osmanthus flower.
+
+The mother bush of Wei Zhen story is still very healthy and about 2.6 meters high. Actually there were several tea plants living with that mother bush but removed in 2017, 80+ years old man Mr. Lin Wen Liang confirmed this with us, he is the owner of this farm but gave it to the local authority. He also confirmed there was no other story in the past.
+
+Wang Dan story is new invented. Here is the story, in 1860 a girl married to a boy in Mei Zhuang village, she brought a tea plant to her new home, that's a wish to have better life. After 3 years, she picked the leaves and made it, all neighbors liked the amazing aroma, so this tea was named as Huang Dan, similar prounciation with Wang Dan according to local language.
+
+Mei Zhuang is a new village that split up from Luo Yan Village of the Wei Zhen story in 1961, the stela locates in Wang Dan story mother bush was set up in 2009. Under this mother bush, there are a lot of tea seeds available. 
+
+> South Orange, north of Aurantium.
+
+> This is a allusion derived from Chunqiu Warring Period (770 B.C. - 221 B.C.), King of Chu asked Yanying if Qi people born to be chief, Yanying answered: "Organge planted in the south of river is Organge but become aurantium if planted in the north, they have the same appreance but taste different, why? terrior is the reason. And Qi people didn't steal but do it once enter Chu state, could the Chu 's terrior make it be?"
+
+Above [Spring and Autumn period](https://en.wikipedia.org/wiki/Spring_and_Autumn_period) [story](https://zh.wikipedia.org/zh-hans/南橘北枳) explains why Huang Jin Gui from the origin is different from other area. Our factory and tea mountain has been here for several generations, according to the experience, the leaf here is thicker than outside, so can take four or more times "Shaking" (*leaves loaded in a round rotating bamboo basket for breaking leaves' surface and fermentation, a key step for [Oolong processing](https://hongchinatea.com/post/huangjingui/)*), the result is thicker and full body texture, also teas from here can keep the quality for longer time.  
+
+---
+
+### <span id="2">Ⅱ. #7274 Classic Tie Guan Yin</span>
+
+| Price $USD | Tea Farmer   | Origin            | Plucking Standard | Packaging |
+| ---------- | ------------ | ----------------- | ----------------- | --------- |
+| 18 - 25    | Mr.Lin Ruifu | Huqiu,Anxi,Fujian | 1 bud 3-4 leaves  | 25kg/ctn  |
+
+![Classic Tieguanyin oolong tea](/img/classic-tgy.jpg)
+
+Basically there are two kinds of Tie Guanyin (Iron Goddess or Ti Kwan Yin): 
+
+- Qing Xiang i.e. green style, it's the product when the processing step of **Drying** finished.
+- Nong Xiang i.e. traditional style, tea roasted based on **Qing Xiang** product.
+
+Classic Tieguanyin is a **Nong Xiang** tea, middle roasted, floral yet sweet and no fire smell at all.
+
+Making a Classic Tieguanyin is not an easy job, there is a cost limit, kind of dancing in Shackles but that's exactly  where imagination and disobedience are stimulated, for a skillful producer, rules are in heart while breakable when necessary.
+
+The first key gift is blending skill to accomplish three aims:
+
+1. Quality stability: there is no 100% same tea because it's an artistic agriculture product, but the number can be over 95% through blending.
+2. Cost reduction: one plus one can be three through proper blending, similar to a great team.
+3. Feature maintance: uniqueness matters to a brand, when the features disappear the name lost too, blending can be a secret weapon to build the special characters.
+
+The first rule for blending is **respect every kind of tea**, not a tea is bad, every one has its unique chactracter, all we have to do is drawing a picture of what final tea we want and keep every one in mind, then find the best combination.
+
+The second rule for Tieguanyin blending is embracing both spring and autumn tea. Spring tea has better mouth feel while autumn tea has better aroma, through their joint efforts, either the tongue mouth or nose can get it then together for an enjoyment spirit experience.
+
+Most of teas have its best in Spring, but Tieguanyin is one exception, a lot of tea competition champion is from autumn, in that time, sun shine is more available than spring and the cold air from the North just arrives, that increases the possibility of making good tea a lot.
+
+> No dare to save labor even making is so complicated, no dare to reduce cost even tasting is so high.
+
+> -- Ancient saying in 1706
+
+#### Roasting is a dangerous job
+
+Not to you but to tea, just like cooking, it's easy to get food burned if not pay enough caution thus break the heart so much when throwing away.  This happens too in Ripe Puer, to make Shu Puer, normally need several tons of raw material, once failed, I am not sure I can afford such lost, tons of tea.
+
+Also roasting is an interesting job too, to decrease the danger degree, you should start from low temperature. We put there times of roasting on this Classic Tieguanyin, the secret is low temperature but long time baking, so no matter inside or outside can get warmed. The first time roasting is about 70-80 °C, it's purpose is to remove off flavour and wake up the tea, then make the second time roasting at about 90 °C for several hours, at this stage you can get very nice smell, all you want to do is just staying in the roasting room, especially in winter, this is the heaven. Then put a short but high temperature roasting as the final to guard what we got, the last step is packing up before it's cold.
+
+---
+
+### <span id="3">Ⅲ. #7176 Green Tie Guan Yin</span>
+
+| Price $USD | Tea Farmer        | Origin               | Plucking Standard | Packaging |
+| ---------- | ----------------- | -------------------- | ----------------- | --------- |
+| 25-35      | Mr. Chen Xiaocong | Longjuan,Anxi,Fujian | 1 bud 3-4 leaves  | 25kg/ctn  |
+
+Anxi tea farmers are full of creative spirit, green Tie Guanyin is the proof. Eyes-pleasing color, aroma, although not as full body as traditional version, it is kind of combination of green tea with traditional Tieguanyin, this creation helps it ruled Chinese market for over 20 years.
+
+In 1991 the first Taiwan tea company was introduced in Anxi county, new technology and modern equipemnts were imported too. In the past in order to get the semi-ball shape of tea, people had to use their feet and hands, now only hands left.
+
+Anxi farmer invented **Long-spike Cuttage**, this is very important for tea plants reproduction. In 1936 a big step forward **Short-spike Cuttage** was invented by Anxi, before in order to get a seedling, a long branch of tea plants needed, this hurt the plant a lot and not efficient, now need only 15cm branch. This technology is used in most of the world.
+
+Compare to **Traditional Tieguanyin**, Green Tieguanyin is not just lightly oxidized, the real world is never that simple. Air-conditioner Using in tea making is a big leap, by controlling humidity and temperature, it's more possible to make greener and floraler tea even in the hot summer.
+
+Famous tea man Mr. Zhang Tianfu ever tried to make use of air-conditioner but the one who finally figured it out is a common Anxi tea farmer named Wang Yirong, Mr. Wang started the experiment in 1996 and got success in 1997, in that time air-conditioner can control temperature only not humidity, he mailed to the air-conditioner factory and convinced them to offer such equipment. Mr. Wang still lives in Gande town of Anxi county, he has a lot to talk every time we drink tea together. He is one of the people earned my respect a lot, the air-conditioner using technology he invented was offered to everyone freely, actually he paid a lot to train the farmers in whole county. 
+
+Based on Mr. Wang Yirong's invention, more creations happened, mostly 3 types of green Tieguanyin were invented:
+
+- "Zheng Wei" style or Orthodox: focus on texture, not so floral, good material for roasting traditional Tieguanyin
+- "Xiao Qing" style or Balanced: a good balance between texture and aroma
+- "Tuo Suan" style or Sour: a bit sour taste but have amazingly powerful fragrance 
+
+*Only Orthodox style is ok for roasting, if you want to roast tea, be sure which style of the teas are.*
+
+> There was a time when I thought of no other, 
+And we sang our own loves refrain, 
+And our hearts beats as one as we had our fun, 
+But time changes everything. 
+
+>And when you left me my poor heart was broken, 
+Our romance seemed all in vain, 
+The dark clouds are gone and there's blue skies again, 
+Yes time changes everything. 
+
+> The time has passed and I have forgotten you, 
+Mother Nature does wonderful things, 
+I guess it is true for me and for you, 
+'Cause time changes everything'.
+
+> -- Bob Wills, Time Change Everything
+
+#### Time changes everything but good tea left
+
+Bob is right, Anxi tea farmers know about it, instead they make use of it to create 3 quite different flavor teas. In the processing of Tieguanyin, when the step of **Basket Rolling** finished, leaves will stay in the **Withering Room** keep oxidization.
+
+The next morning, if the **Sha Qing** Kill Green step excuted before 4am or 6am (which depends ..), Orthodox style will be made while Balanced style will be made if it's in the afternoon and Sour style will be if it's in another day.
+
+All three types of teas can be very good but Sour style will be a bit of awkward if cup 3 side by side.
+
+---
+
+### <span id="4">Ⅳ. #7175 High Oxidization Tie Guan Yin</span>
+
+| Price $USD | Tea Farmer          | Origin      | Plucking Standard | Packaging |
+| ---------- | ------------------- | ----------- | ----------------- | --------- |
+| 38-50      | Mr.Tang Shuangjiang | Anxi,Fujian | 1 bud 3-4 leaves  | 25kg/ctn  |
+
+> Green leaf mounted with red edge.
+
+That's the exact description of this tea, whole leaf is about 30% red with 70% green. It's a kind of **lost** technique that can get violent aroma. The key is the oxidization level, in order to make it perfectly oxidized, we need to coordinate several elements like leaf water content, sunlight intensity, picking time, wind speed, air temperature, number of workers etc, always in the process of dynamic adjustment.
+
+But a lot of people missed one important factor, the right varietal. There are several types of Tie Guan Yin:
+
+1. Red Bud Tieguanyin - BEST
+2. Green Bud Tieguanyin - planting is easier but lower quality
+3. Bamboo Tieguanyin - aroma lost easily
+4. Local Mountain Ben Shan - very similar to Red Bud
+
+About two hundred years ago, Zhang Nai Miao brought this Red Bud Tieguanyin to Taiwan, that's Mu Zha Tieguanyin, quite special among different Taiwan Oolongs. This is the tea you can not get it massive produced.
+
+---
+
+### <span id="5">V. #7378 Classic Da Hong Pao</span>
+
+| Price $USD | Tea Farmer          | Origin                  | Plucking Standard | Packaging |
+| ---------- | ------------------- | ----------------------- | ----------------- | --------- |
+| 38-50      | Mr.Tang Shuangjiang | Anxi + Wuyi Shan,Fujian | 1 bud 3-4 leaves  | 15kg/ctn  |
+
+Da Hong Pao (aka. big red robe) sometimes named as Wuyi Rock tea or Wuyi tea, actually Wuyi Mountain has over 100 varietals, how could single one represent the whole group? Too good and too famous, also because our brain needs a shortcut to remember something, just like in China when you want to mention SUV car you can just say JEEP.
+
+That's the first definiton of Big Red Robe, our tea belongs to **the third** one, **the second** one is a blending of varietals from Wuyi, as you may already heard, the material from Wuyi is very expensive, that's outbound the purpose of creating a **good value, affordable** tea, so we blend materials from both Wuyi and Anxi, it is a bold move but you will be convinced by the aroma and texture finally.
+
+It's medium roasted, no fire smell. The fragrance is so strong that may let  you forget there is a FOURTH definition, the pure big red robe varietal, still there are puzzles here, so many stories about the origin of big red robe, even the mother bushes stand on the cliff are may not real mother bushes. In 1930 tea experts Mr. Lin Fu Quan did a field survey, the monk from Tian Xin temple told him that they intentionally wrong directed tourists the mother bush is on the Nine Dragon Cave cliff, because the real mother bush in their temple had suffered a lot that so many people want to break a branch, just like T. S. Eliot said:
+
+> Most of the trouble in the world is caused by people wanting to be important.
+
+Take a minute to hear this most famous story. In 1835 a poor student took a long travel to the capital for the imperial examination, but got bad sick when went through Wuyi Mountain, the monks cured him by a cup of tea. The student who won the first place in the exam returned to thank the monks and left with some tea gifts. Coincidentally the Empress got a stomachache and these teas saved her, the Emperior gave him a big red robe to reward Wuyi Mountain, he climbed the cliff and covered these three bushes with the big red robe, miracle happened when it was lifted, they glowed red in the sun.
+
+It's a sweet and beautiful story, however what makes our tea classic is not by the story or help of some famous person instead it's all about quality and stable supply.
+
+---
+
+### <span id="6">Ⅵ. #7575 Fairie Diamond</span>
+
+| Price $USD | Tea Farmer      | Origin                   | Plucking Standard | Packaging |
+| ---------- | --------------- | ------------------------ | ----------------- | --------- |
+| 70-100     | Mr.Jiang Danguo | Nanyang,Zhangping,Fujian | 1 bud 3-4 leaves  | 20kg/ctn  |
+
+![Fairie Diamond Oolong tea](/img/fairie-diamond.jpeg)
+
+"Wuyi Rock tea like Big Red Robe is too strong for me." I ever heard such complain, then this Fairie Diamond is the best choice, lighter yet complex. Actually they are the same varietal, Wuyi Water Fairie and this one, they both come from Shuiji Town, Jian Yang County, Fujian Province.
+
+Zhang Ping Shui Xian is its Chinese name, "Shui Xian" is Water Fairie in english. When you move to a new region, you'll get a new mark. This happened to tea plant too. In early 1900s, two farmers Liu Yongfa and Zheng Yuguang brought this varietal back home, regarding processing craft, in order to differ from other competitors, these two farmers creatively combined the Fujian North craft with Fujian South craft, lowering down the Wuyi Rock tea drinking curve, so even new tea drinkers can easily enjoy the complexity.
+
+#### The reflection of Taiwan Bao Zhong oolong ####
+
+In 1920s, a foreign buyer gave Liu Yongfa an order but asked for customized packaging that similar to Bao Zhong Oolong - square shape - but smaller quantity to 20g per bag for convenient transportation. This request aroused his interest very much, after several years' research and experiment, Liu Yongfa finally invented the square packaging craft and equipments which shows as below:
+
++ Lay down a special white paper.
++ Prepare the square mould which is 16cm high and 5cm width
++ Put loose tea into the mould
++ Hammer these tea with a mallet
++ Remove the mould and wrapped tea with white paper
++ Roast the paper wrapped tea
+
+The end is yellow gold liquor with sweet yet full body texture, along with the unique apprance, a gegorous drinking experience.
+
+*This tea also comes with another **heavier** oxidization version, as well as [Red Fairie](#23) in black tea.*
+
+### Be small and beautiful ###
+
+> To be or not to be, that's the question.
+
+> -- William Shakespeare
+
+Life is a long running, we don't know what will be until get there, maybe a break, a down, a luck or a thrilling, but we can see what we are dreaming of in some time and try to figure out what should be done right now. Fairie Diamond didn't go so well in late 1900s, after the Chinese economic reform, his neighbor Tie Guanyin got very popular from 1990s, still one question he should answer is how to survive.
+
+A lot of farmers turned the boat learning from Tie Guanyin, including the semi-ball shape, that's not so hard as they are close in distance, also it has Anxi Tie Guanyin Gene from the beginning (Liu Yongfa combined Wuyi craft with Anxi carft to create this tea in 1900s.). The strategy of beeing Tie Guanyin alike did save them but when Tie Guanyin crashed from 2012, Fairie Diamond fell down much faster. Most of us can not smell the danger when everything goes ok until the final trial come.
+
+Farmers started to wake up and re-examine the road that have traveled, traditional craft are picked up and armed with new technology. Still Fairie Diamond is the only square shape tea in China and living well now. History is an interesting circle that keep repeating and updating, it's never late to know where you come from.
+
+---
+
+### <span id="7">Ⅶ. #7675 Pinho White Bud</span>
+
+| Price $USD | Tea Farmer    | Origin                  | Plucking Standard | Packaging |
+| ---------- | ------------- | ----------------------- | ----------------- | --------- |
+| 45-60      | Mr.He Yunlong | Qiling,Zhangzhou,Fujian | 1 bud 3-4 leaves  | 25kg/ctn  |
+
+![Pinho White Bud Oolong tea](/img/pinho-white.jpg)
+
+Pinho White Bud (aka Bai Ya Qi Lan) is one of three most famous Fujian Oolong teas, it is quite young however that found in 1981 By Master He Jinneng, father in law of our producer. Although the history of this tea is relatively short, its special **floral aroma** and **ginger alike texture** help a lot to gain vast public interest. Upon the first tasting, it will lead you to associate with Taiwan Alishan High Mountain Oolong, this is no surprising at all as they have similar very traditional processing craft.
+
+According to the Tea Planting and Tea Making training brochure written by the father of this tea and Mr. Wen Tianhai, *it's not difficult to get the authentic  texture but does not easy to make the unique flowery aroma.* That's one of the reasons you might not get impressive when sipping a common Pinho White Bud, the secret is hidden in the oxidization. **Middle Oxidization** is the motto of this craft, a longer explanation of this motto is "middle withering, middle oxidization, heavy rolling and middle roasting."
+
+When you head to this village, firstly what impress you is not tea, is pomelo, every where, especially when the blooming time comes, all the air is pomelo flower, no one can get escape from it. But once you step into the village deeper, you will find pomelo is retreating and tea is in attack, because deeper means high altitude of the mountain, pomelo can not get used to the cold temperature of high mountain but tea plants love it, here even in hot summer, no air-conditioner using needed, the natural air is comfortable very much.
+
+The mother bush now is in the factory of where this tea produced, it's moved to here from origin in 1993, below is a short remarks of this tea:
+
++ 1981 found by Master He Jinneng
++ 1986 local tea bureau sent Mr. Wen Tianhai help to promote it
++ 1987 experiments revealed the output of this tea is higher than Huang Dan while a bit lower than Hairy Crab
++ 1987 in the same year, tea name officially was recognized and confirmed no conflits with others
++ 1989 big scale planting started that even imported by other provinces
++ 1990 the provincial administration decided to use this ONE tea name only for all 7 tea varieties within the county
++ 1996 treated as Good Tea Varietal by the provincial administration and numbered as Min Shen Cha 1996001
++ 1997 Master He Jinneng successfully registered the trade mark
++ 2010 ownship of this trade mark transferred to the local tea association
++ 2015 become [National Geographic Indication Protective Product](http://www.cgi.gov.cn/Products/List/?1=1&page=1&Category=6&Area=福建&key=)
+
+As above list indicates the history of **Pinho White Bud** is not long, just couple decades, but this county has been with tea for over hundred years, that's why Master He Jinneng has the EYEs to find it. When he found it, there was no name for this varietal, they call it "Da Ye Huang Dan" as it is as flowery as [Huang Dan](#1) and leaf is bigger, people planted couple varietals including this Huang Dan here but no core competence until **Pinho White Bud** showed up.
+
+> What's unique for a nation is also precious for the world.
+
+> -- Lu Xun, China 1935
+
+Regarding vitality, local culture plays an important role. If one don't know who they are and where they come from how could one be brave without fearless. But this is an impetuous era and sadly the answer for this question needs time and patience. Even for this Pinho White Bud, the processing craft changed too when [Tie Guan Yin](#3) was the no.1 tea in China, people tried to copy the Super Star but on the contrary the star start to fall. The father of Pinho White Bud insists the tradtiional craft and passed this philosophy to his son.
+
+---
+
+## BLACK TEA ##
+
+In China it's called HONG CHA or Red Tea, a fully oxidized tea. Oxidization or fermentation is a mystery word, in the beginning tea people didn't know about this gear, at that time only Green Tea available in the world, one time when people transport this Green tea with ship, it's delayed and much much longer time it took becasue of the typhoon, the humilidity is much higher and when finally the delivery arrived, people sadly found out the tea was not the tea anymore but something weird, don't who has the gang to try this new species and surprisingly that tastes so good, and a new tea type was born.
+
+This world is full of surprises, when we grow up, most of us lose the sense of discovering, we ignore so much of what we see we hear we smell and we touch, that's why we people will always need LOVE, as LOVE can change the atmosphere and colorful everything to give us a totally different world.
+
+### <span id="21">Ⅰ. #5176 Wild Wulong</span> ###
+
+| Price $USD | Tea Farmer          | Origin               | Plucking Standard | Packaging |
+| ---------- | ------------------- | -------------------- | ----------------- | --------- |
+| 35-50      | Mr.Tang Shuangjiang | Anxi,Quanzhou,Fujian | 1 bud 1-2 leaves  | 20kg/ctn  |
+
+![Wild Wulong black tea](/img/wild-wulong.jpg)
+
+Oolong can become Black tea the other night, that's true everything is possible. This **Wild Wulong** is a special black tea, Oolong processing craft is added to reveal how charming sweetness of wild plant could be.
+
+**Honey**, that's the best word to describe the drinking experience of this tea, and *it is wild honey*.
+
+> Misfortune may prove a blessing in disguise.
+
+> -- Lao Tzu in 531 BC
+
+Anxi tea conquerred Chinese tea market in 1990s and 2000s, unfortunately it lost the glory after that, some tea gardens even were abdoned where become the eden of the wilds, insects, animals and birds as well as the unknown weeds. There is harmony exist, we modern human call it ECO.
+
+#### Picking Standard ####
+
+The common picking standard for Oolong is 1 bud with 3-4 leaves, regarding this WILD and aiming to make into black tea, younger leaf is better but can not be too young as it would not fully present the characters of this Wulong. So 1 bud with 1-2 leaves was chosen.
+
+Middle withering plus light **Shaking** which is key step of Oolong craft, combined with black tea processing to give you an imagination of how bees are working in the nature. Yes it has been proved to be a blessing. 
+
+---
+
+### <span id="22">Ⅱ. #5177 Tiger Mountain</span>
+
+| Price $USD | Tea Farmer   | Origin            | Plucking Standard | Packaging |
+| ---------- | ------------ | ----------------- | ----------------- | --------- |
+| 35-50      | Mr.Lin Ruifu | Huqiu,Anxi,Fujian | 1 bud 2-3 leaves  | 15kg/ctn  |
+
+One bad of this tea is it can only be brewed for 4 times, otherwise nothing else to complain. The mint alike aroma comes from the varietal named King Guanyin that invented by the Fujian Tea Research Bureau in 2000, it's a hybrid that take [Huang Jin Gui](#1) as mother while [Tie Guanyin](#2) as father. 
+
+Beside the varietal, we also create a special craft for this tea that we call it **Romantic Summer Craft**. Most of the best teas come from spring especially for black tea but there is always an exception. Inspired by the Oriental Beauty, we make use of the July heat for oxidization, no machine used for this processing step, cloth wrapped tea ball are left in the shadow, without direct sunshine but keep absorbing the heat for 4-5 hours, until about 80% fermented then loose the tea ball and dry out, it is so smooth and fresh but the power of the linqor is not strength enough yet, we left 20% for post oxidization. Without removing stems, they are kept in the warehouse of the mountain for 6 months, with the help of high mountain clean air and time, summer hot finally turn into pleasant yet unknown flavor. 
+
+---
+
+## YUNNAN PUER ##
+
+There are two kinds of Puer tea: Ripe (Shu) and Raw (Sheng), Ripe is the result of post-ferment of Raw, or in another word, Ripe Puer is based on Raw Puer which is been applied WO DUI technology that give the stacked raw Puer specific temperature and humidity that increase the activity of strains, kind of similar to the beer brewage production. This technology is mature enough that can be used to other varietals like Oolong with amended technoligy to get Jin Hua golden flower which is remarked as rare character in Dark tea (Hei Cha).
+
+Why Yunnan Puer is special? A lot of Taiwanese plant Oolong here Yunnan, a lot of Arabica Coffee beans produced  here, all because of the special terrior, Yunnan has the most remarkable forest for tea planting in the world, also the several hundred years old Puer tea tree is not alone, there are many big areas have such old tea tree group, thousands of hundred years old tea tree, imagin that all old Water Fairy tea trees in Wuyi is just a droplet of Yunnan ocean, you can not beat the gift. 
+
+### <span id="37">Ⅶ. #8378 Classic Ripe Puer</span> ###
+
+| Price $USD | Tea Farmer   | Origin            | Plucking Standard | Packaging |
+| ---------- | ------------ | ----------------- | ----------------- | --------- |
+| 8.5-10     | Mr.Liu Zhaoquan | Puer,Yunnan | 1 bud 3-4 leaves  | 25kg/ctn  |
+
+
+
