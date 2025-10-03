@@ -37,6 +37,27 @@ And remember, if it's not found there, it would be the default 0.01ppm.
 
 [Europe Pesticide Residues database](https://ec.europa.eu/food/plant/pesticides/eu-pesticides-database/start/screen/mrls)
 
+## What EU compliant teas we have?
+
+The tea list is long and updated regularly, in short the catalog includes Black tea, Green tea, Oolong tea, Yunnan Puer, White tea and experimental Yellow tea, they comes from Yunnan, Guangdong, Fujian, Guangxi, Zhejiang, Sichuan etc, of all the teas we make 35% by ourself and outsource the rest. Almost every year we do tea experiments and thus to have shiny new tea which is different from the ones in the market.
+
+The teas we created normally have the following advantages:
+
+1. Zero astringency
+2. Hight aroma
+3. Full body
+
+It's unique enough to get you stand out and earn the extra profit, as we know in the end the winner is always the one impressed.
+
+The followings are some teas we are proud of though not full list.
+
+* Fullaroma Winter Dan Cong Oolong tea - EU organic certified with rebellious aroma
+* Fruitymore black tea - A gift from mysterious tribes of Yunnan and Zero astringency
+* Peach Heart Oolong tea - Rock tea with charming natural peach aroma
+* Right Heart White tea - A combination of elegance mixed with power
+* Great General Green tea - Five stars body 
+
+
 ![Tie Guanyin Oolong tea testing report from Hong China Tea Company](/img/oolong-testing-report.jpg "Tieguanyin tea testing report from Eurofins")
 
  
