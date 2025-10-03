@@ -27,6 +27,16 @@ Normally I will check 5 aspects:
 
 If everything is ok, it means Pesticide Free is not just an order, it's an idea that has been accepted by all employees and the whole community. Everything can flash out, only great thoughts can survive.
 
+## EU Pesticides database
+
+The European Commission has published all the pesticde residues on the website, but be aware sometimes the authority will check something new which is not listed on this following database, so be sure to keep an eye on the [European Parliament news](https://technical-barriers-trade.ec.europa.eu/en/home) as well as [SPS & TBT Platform of WT](https://eping.wto.org).
+
+Also the Rapd Alert System for Food and Feed (RASFF) has a searchable database called [RASFF Window](https://webgate.ec.europa.eu/rasff-window/screen/consumers) that you can see what troubles why one tea is refused to be imported in.
+
+And remember, if it's not found there, it would be the default 0.01ppm.
+
+[Europe Pesticide Residues database](https://ec.europa.eu/food/plant/pesticides/eu-pesticides-database/start/screen/mrls)
+
 ![Tie Guanyin Oolong tea testing report from Hong China Tea Company](/img/oolong-testing-report.jpg "Tieguanyin tea testing report from Eurofins")
 
  
