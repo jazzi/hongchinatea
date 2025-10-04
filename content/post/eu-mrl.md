@@ -41,7 +41,7 @@ And remember, if it's not found there, it would be the default 0.01ppm.
 
 The tea list is long and updated regularly, in short the catalog includes Black tea, Green tea, Oolong tea, Yunnan Puer, White tea and experimental Yellow tea, they comes from Yunnan, Guangdong, Fujian, Guangxi, Zhejiang, Sichuan etc, of all the teas we make 35% by ourself and outsource the rest. Almost every year we do tea experiments and thus to have shiny new tea which is different from the ones in the market.
 
-The teas we created normally have the following advantages:
+The teas we created normally have the following characters:
 
 1. Zero astringency
 2. Hight aroma
@@ -56,6 +56,8 @@ The followings are some teas we are proud of though not full list.
 * Peach Heart Oolong tea - Rock tea with charming natural peach aroma
 * Right Heart White tea - A combination of elegance mixed with power
 * Great General Green tea - Five stars body 
+
+**And sure, don't forget the Chinese Matcha made by Long Jing 43, you know this special cultivar right?**
 
 
 ![Tie Guanyin Oolong tea testing report from Hong China Tea Company](/img/oolong-testing-report.jpg "Tieguanyin tea testing report from Eurofins")
