@@ -7,7 +7,7 @@ date: 2021-09-24
 
 ---
 
-![Jasmine tea families](/images/jasmine-teas.jpg)
+![Jasmine tea families](/img/jasmine-teas.jpg)
 
 ## Where is the jasmine tea factory? ##
 
