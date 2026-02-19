@@ -30,6 +30,13 @@ It's even simpler now, IMO was acquired by ECOCERT in 2014, so now only two comp
 
 ## EU Pesticide database
 
+Europe has two core regulations for chemical residues in tea:
+
+1. [Regulation (EC) No. 396/2005 for pesticide residues](https://eur-lex.europa.eu/eli/reg/2005/396/2025-08-24)
+2. [Regulation (EU)2023/915 for contaminants in food](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31993R0315&qid=1755446231888)
+
+Above are regulation text, if you wanna see the MRL for specific pesticide, check this [Pesticide Residues Database](https://ec.europa.eu/food/plant/pesticides/eu-pesticides-database/start/screen/mrls).
+
 
 
 ## How to prove Pesticide Free of a tea garden?
